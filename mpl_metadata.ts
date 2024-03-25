@@ -28,7 +28,7 @@ async function main(){
     const ourMetadata = { 
         name: "Lion Domination", 
         symbol: "LDT",
-        uri: "https://raw.githubusercontent.com/loopcreativeandy/video-tutorial-resources/main/metadataUpdate/metadata.json",
+        uri: "https://raw.githubusercontent.com/loopcreativeandy/SolanaToken/metadata.json",
     }
     const onChainData = {
         ...ourMetadata,
